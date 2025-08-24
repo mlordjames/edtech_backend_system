@@ -1,0 +1,5 @@
+# Requirements for SL Tech EdTech Backend System
+# Python Standard Library modules are used (uuid, re, dataclasses, typing, getpass).
+# For PDF export functionality, install reportlab.
+
+reportlab>=3.6.12
